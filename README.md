@@ -17,5 +17,6 @@ The lab focused on interfacing a VGA adapter core to display graphics on a scree
 
 This lab focused on designing a deep neural network accelerator for an embedded Nios II system, integrating SDRAM, a PLL, and custom hardware accelerators. Key concepts included interfacing with off-chip memory, setting up Avalon memory-mapped components, and optimizing hardware for better performance while debugging a full system-on-chip.
 
-Course Description: Advanced combinational and sequential electronic system design. Hardware specification, modeling, and simulation using hardware description languages (HDLs) and CAD tools. Design with programmable logic including FPGA’s. Applications include complex state machines, microcontrollers, arithmetic circuits, and interface units. 
+# Course Description: 
+Advanced combinational and sequential electronic system design. Hardware specification, modeling, and simulation using hardware description languages (HDLs) and CAD tools. Design with programmable logic including FPGA’s. Applications include complex state machines, microcontrollers, arithmetic circuits, and interface units. 
 
